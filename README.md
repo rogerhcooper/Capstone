@@ -1,4 +1,4 @@
-# KentEvent
+# Capstone
 
 Install Git
 <br>
@@ -62,7 +62,7 @@ In your terminal:
 <br>
 Go into the project folder you just cloned
 <br>
-cd KentEvent
+cd Capstone
 <br>
 <br>
 Create a remote of the repo you forked from
