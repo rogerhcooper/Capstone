@@ -11,8 +11,7 @@ https://www.python.org/downloads/
 <br>
 <br>
 
-Visual Studio Code also has a built in console if you use the keyboard shortcut 'ctrl + `'
-<br>
+Instructions for setting up a remote repo
 <br>
 fork the repo
 <br>
