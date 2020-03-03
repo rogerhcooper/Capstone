@@ -98,4 +98,4 @@ When you want to run the code, push the go live button in the bottem right
 <br>
 Prod Server:
 <br>
-3.17.201.134/index.html
+3.17.201.134/scribe.html
