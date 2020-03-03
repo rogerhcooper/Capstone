@@ -82,3 +82,16 @@ Pull the current version of the main repo into your clone of the main repo
 git pull
 <br>
 <br>
+<h3><u>To work in VS Code</u></h3>
+<br>
+<br>
+If you don't have VS Code:
+1. Switch to a B.A. because you aren't a real CS Major
+<br>
+<br>
+In VS code open the cloned repo (Capstone)
+<br>
+Download the extension Live Server
+<br>
+When you want to run the code, push the go live button in the bottem right
+<br>
