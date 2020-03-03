@@ -11,7 +11,7 @@ https://www.python.org/downloads/
 <br>
 <br>
 
-<h3>Instructions for setting up a remote repo<h3>
+<h3>Instructions for setting up a remote repo</h3>
 <br>
 fork the repo
 <br>
