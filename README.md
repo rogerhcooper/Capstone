@@ -10,23 +10,7 @@ Install Python with custom installation, make sure you have pip selected
 https://www.python.org/downloads/
 <br>
 <br>
-Install pipenv
-<br>
-In your terminal: 
-<br>
-  pip install pipenv
-<br>
-<br>
-Install Flask
-<br>
-In your terminal: 
-<br>
-  pip install flask
-<br>
-<br>
-If you do not have a text editor you have/like, install Visual Studio Code at:
-https://code.visualstudio.com/
-<br>
+
 Visual Studio Code also has a built in console if you use the keyboard shortcut 'ctrl + `'
 <br>
 <br>
@@ -99,35 +83,3 @@ Pull the current version of the main repo into your clone of the main repo
 git pull
 <br>
 <br>
-Installing packages
-<br>
-pipenv install
-<br>
-<br>
-# Set environments
-Windows PowerShell:
-<br>
-$env:FLASK_APP = "flaskr"
-<br>
-$env:FLASK_ENV = "development"
-<br>
-<br>
-Mac Terminal/Linux: 
-<br>
-export FLASK_APP=flaskr
-<br>
-export FLASK_ENV=development
-<br>
-<br>
-Install packages: 
-pipenv install
-<br>
-<br>
-Start your pipenv virtual environment
-<br>
-
-pipenv shell
-<br>
-<br>
-# Start the project
-flask run
